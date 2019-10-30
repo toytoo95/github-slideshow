@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Your test
+>Author Lee SJ
 Use the left arrow to go back!
